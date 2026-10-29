@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for cloud-run-jraw0q on 2026-10-29T23:22:44Z
+# fly.toml app configuration file generated for cloud-run-vxknmw on 2026-10-29T23:49:43Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'cloud-run-jraw0q'
+app = 'cloud-run-vxknmw'
 primary_region = 'ams'
 
 [build]
